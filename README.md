@@ -5,7 +5,7 @@ Install matlab above 2005 verion with computer vision library
 ## Run on command promt
 `MotionDetection`
 ## References
--A. Briassouli and I. Kompatsiaris, ”Statistical Processing of Video for Detection of Event in Space and Time”, Multimedia and Expo, 2008 IEEE International Conference on (Volume:43 , Issue: 1 ), 2008.
--R. Gonzalez and R.E.Woods, Digital Image Processing, Prentice Hall,New Jersey, 2002.
--A. Papoulis, Probability, Random Variables, and Stochastic Processes,McGraw-Hill, New York, 2nd edition, 1987.
--H. V. Poor, An Introduction to Signal Detection and Estimation,Springer-Verlag, New York, 2nd edition, 1994.
+- A. Briassouli and I. Kompatsiaris, ”Statistical Processing of Video for Detection of Event in Space and Time”, Multimedia and Expo, 2008 IEEE International Conference on (Volume:43 , Issue: 1 ), 2008.
+- R. Gonzalez and R.E.Woods, Digital Image Processing, Prentice Hall,New Jersey, 2002.
+- A. Papoulis, Probability, Random Variables, and Stochastic Processes,McGraw-Hill, New York, 2nd edition, 1987.
+- H. V. Poor, An Introduction to Signal Detection and Estimation,Springer-Verlag, New York, 2nd edition, 1994.
