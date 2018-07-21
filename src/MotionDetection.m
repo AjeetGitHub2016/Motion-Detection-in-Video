@@ -1,7 +1,7 @@
 clear all;
 clc;
 %% Frame detection
-videoObj = Videoreader('Walk1.mpg');
+videoObj = Videoreader('data/Walk1.mpg');
 hight = videoObj.Height;
 width = videoObj.Width;
 nFrame = 0 ;
@@ -183,15 +183,4 @@ ylabel('gradiant of log-likelyhood ratio for active pixel');
 title('Gradiant of log-likelyhood ratio');
 grid on
 gtext('change');
-
-  
-          
-  
-  
-      
-  
-  
-  
-
-
  
